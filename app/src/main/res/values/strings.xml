@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpaceArtApp</string>
+
+    <string name="picture_name_1">Sakura. A cherry blossom is a flower of many trees of genus Prunus or Prunus subg.</string>
+    <string name="picture_author_1">Yeldar</string>
+
+    <string name="picture_name_2">Kid, you will move mountains.</string>
+    <string name="picture_author_2">Dr Seuss</string>
+
+    <string name="picture_name_3">A picture is nothing but a bridge between the soul of the artist and that of the spectator.</string>
+    <string name="picture_author_3">Eugene Delacroix</string>
+
+    <string name="picture_name_4">Beautiful.</string>
+    <string name="picture_author_4">Picture</string>
+</resources>
